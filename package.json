@@ -19,9 +19,9 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
+    "@atomist/sdm": "^1.7.0",
     "@fortawesome/fontawesome": "^5.8.2",
-    "@ladjs/bootstrap-social-commercial": "^7.0.2",
-    "@ladjs/bootstrap-social": "^7.0.1",
+    "@ladjs/bootstrap-social": "^7.0.2",
     "@octokit/rest": "^16.25.4",
     "axios": "^0.18.0",
     "bcrypt": "^3.0.6",
