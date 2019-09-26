@@ -1,4 +1,4 @@
-FROM node:9.2
+FROM node:9
 
 WORKDIR /starter
 ENV NODE_ENV development
