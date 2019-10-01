@@ -19,7 +19,7 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
-    "@atomist/automation-client": "^1.7.0",
+    "@atomist/automation-client": "^1.6.2",
     "@fortawesome/fontawesome": "^5.8.2",
     "@ladjs/bootstrap-social": "^7.0.2",
     "@octokit/rest": "^16.25.4",
